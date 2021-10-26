@@ -1,8 +1,8 @@
 const Links = {
   github: 'felipessoa',
   YouTube: 'jakelinygracielly',
-  Facebook: 'maykbrito',
-  Instagram: 'jakeliny.gracielly',
+  Facebook: 'felipe.pessoa.731',
+  Instagram: 'felipessoarquiteto',
   twitter: 'jakelinytec'
 }
 
